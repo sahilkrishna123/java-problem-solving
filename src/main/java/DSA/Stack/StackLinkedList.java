@@ -1,3 +1,4 @@
+package DSA.Stack;
 public class StackLinkedList{
     static class Node{
         int data;
