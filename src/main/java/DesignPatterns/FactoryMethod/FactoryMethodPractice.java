@@ -1,3 +1,5 @@
+package DesignPatterns.FactoryMethod;
+
 public class FactoryMethodPractice {
 
     public static void main(String[] args){

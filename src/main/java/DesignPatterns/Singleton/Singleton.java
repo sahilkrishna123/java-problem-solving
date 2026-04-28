@@ -1,3 +1,5 @@
+package DesignPatterns.Singleton;
+
 public class Singleton {
     private static Singleton instance;
     
